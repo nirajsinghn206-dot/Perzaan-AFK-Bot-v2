@@ -2,9 +2,9 @@
   "name": "Perzaan-Multi-AFK-Bot",
 
   "server": {
-    "ip": "YOUR_ATERNOS_SERVER_ADDRESS",
-    "port": 25565,
-    "version": "1.20.1"
+    "ip": "veyronia-smp.aternos.me",
+    "port": 34501,
+    "version": "26.2"
   },
 
   "bots": [
